@@ -7,3 +7,7 @@ Aqui criei uma aplicação simples que recebe dados do usuário via formulário,
 Projeto para aprender o básico de Flask, rotas, templates e manipulação de formulários.
 
 ---
+
+## Print da aplicação
+
+![Tela do formulário preenchido](static/python.png)
